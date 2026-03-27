@@ -1,0 +1,17 @@
+{
+  "name": "cf-ai-assistant",
+  "main": "src/entry.py",
+  "compatibility_date": "2026-03-27",
+  "compatibility_flags": [
+    "python_workers"
+  ],
+  "ai": {
+    "binding": "AI"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "CHAT_HISTORY",
+      "id": "48990e3c713147e8beebdb565d7429d5"
+    }
+  ]
+}
